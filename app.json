@@ -19,6 +19,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "BSM447 · Ghibli Arşivi"
   }
 }
